@@ -6,7 +6,7 @@ OluPay is a Lagos-based fintech scale-up. This repository contains the architect
 ## Architecture Diagram
 
 ## Architecture
-![Architecture Diagram](S7_C1.png)
+![Architecture Diagram](S7-C1.png)
 
 ## Services Used
 
